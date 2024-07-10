@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=40&center=true&vCenter=true&width=1000&lines=⭐+Bem+vindas!+⭐;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=40&center=true&vCenter=true&width=1000&lines=⭐+Bem+vindas!+⭐;)](https://git.io/typing-svg)
+
 
 ⭐ **Nossa organização:**
 
